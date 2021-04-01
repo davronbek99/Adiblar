@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="tilni_tanlang">Tilni tanlang</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="ok">Ok</string>
+    <string name="setting">Sozlamalar</string>
+    <string name="rejim">Kunduzgi rejim</string>
+    <string name="dastur_tili">Dastur tili</string>
+    <string name="language">O\'zbek tili</string>
+    <string name="ulashish">Ulashish</string>
+    <string name="about">Dastur haqida</string>
+    <string name="biz_haqimizda">Biz haqimizda</string>
+    <string name="adiblar_hayoti">Adiblar \nhayoti va ijodi</string>
+    <string name="uzbekistan">O\'zbekiston va Jahon adabiyoti ixlosmandlari uchun ajoyib qo\'llanma</string>
+    <string name="about_my_self">Version:  1.0.1\nCompany:  DavronbekDev\nMail:  davronbekprogrammer@gmail.com\nPhone:  +998939917893</string>
+    <string name="bubble1">Adiblar</string>
+    <string name="bubble2">Saqlangan</string>
+    <string name="bubble3">Sozlamalar</string>
+    <string name="search">Qidiruv</string>
+    <string name="lan">Tilni tanlang</string>
+</resources>

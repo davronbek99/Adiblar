@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="back_home">#091F29</color>
+    <color name="card_back">#25303F </color>
+    <color name="back_appbar">#091F29</color>
+    <color name="back_tv">#ffffff</color>
+    <color name="back_fragment">#091F29</color>
+    <color name="back_bubble">#1B1A1A</color>
+    <color name="search_text_color">#ffffff</color>
+    <color name="search_back_color">#000000</color>
+    <color name="backsearch">#25303F</color>
+</resources>

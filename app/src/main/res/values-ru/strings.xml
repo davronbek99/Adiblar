@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tilni_tanlang">Тилни танланг</string>
+    <string name="cancel">Бекор килиш</string>
+    <string name="ok">Ок</string>
+    <string name="setting">Созламалар</string>
+    <string name="rejim">Кундузги режим</string>
+    <string name="dastur_tili">Дастур тили</string>
+    <string name="language">Узбек тили</string>
+    <string name="ulashish">Улашиш</string>
+    <string name="about">Дастур хакида</string>
+    <string name="biz_haqimizda">Биз хакимизда</string>
+    <string name="adiblar_hayoti">Адиблар \nхайоти ва ижоди</string>
+    <string name="uzbekistan">Узбекистан ва Жахон адабиети ихлосмандлари учун ажойиб кулланма </string>
+    <string name="about_my_self">Version:  1.0.1\nCompany:  DavronbekDev\nMail:  davronbekprogrammer@gmail.com\nPhone:  +998939917893</string>
+    <string name="bubble1">Адиблар</string>
+    <string name="bubble2">Сакланган</string>
+    <string name="bubble3">Созламалар</string>
+    <string name="search">Кидирув</string>
+    <string name="lan">Tilni tanlang</string>
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="my_back_color">#E5E5E5</color>
+    <color name="click_green">#00B238</color>
+    <color name="saqlanmagan_color">#F9F9F9</color>
+    <color name="settings_back">#EFEDED</color>
+    <color name="back_home">#F1F0F0</color>
+    <color name="card_back">#ffffff</color>
+    <color name="back_appbar">#F1F0F0</color>
+    <color name="back_tv">#000000</color>
+    <color name="back_fragment">#F1F0F0</color>
+    <color name="back_bubble">#ffffff</color>
+    <color name="search_text_color">#000000</color>
+    <color name="search_back_color">#ffffff</color>
+    <color name="backsearch">#ffffff</color>
+
+
+</resources>
